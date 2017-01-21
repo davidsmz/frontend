@@ -1,0 +1,41 @@
+header{
+	background: #EFFF3A;
+	font-size: 32px;
+	height: 70px;
+	text-align: center;
+}
+nav{
+	background: #F21212;
+	font-size: 32px;
+	float: left; 
+	height: 550px;
+	width: 160px;
+}
+section{
+	background: #ECD9AC;
+	font-size: 32px;
+	height: 550px;
+}
+article{
+	background: #100101;
+	color: #FFFFFF;
+	font-size: 24px;
+	height: 52px;
+	display: flex;
+  	align-items: center;
+
+}
+footer{
+	background: #127097;
+	font-size: 32px;
+	height: 70px;
+	text-align: center;
+}
+
+p{
+	border: solid 1px #FFFFFF;
+}
+div{
+	height: 30px;
+	border: solid 1px #ECD9AC;
+}
